@@ -33,7 +33,7 @@ O notebook contém:
 
 ## Como executar no Google Colab
 
-1. Abra o arquivo `notebooks/analise_exploratoria_dados_produtividade.ipynb` no Google Colab.
+1. Abra o arquivo `notebooks/P2FCD.ipynb` no Google Colab.
 2. Faça upload do arquivo `data/DadoseDecisoes.csv` ou ajuste o caminho do arquivo no notebook.
 3. Execute as células em ordem.
 
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 Depois, abra o notebook:
 
 ```bash
-jupyter notebook notebooks/analise_exploratoria_dados_produtividade.ipynb
+jupyter notebook notebooks/P2FCD.ipynb
 ```
 
 ## Principais ferramentas utilizadas
