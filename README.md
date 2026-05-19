@@ -11,22 +11,6 @@ A variável `Produtividade` é transformada em uma variável binária:
 - **Alta produtividade**: funcionários com produtividade acima da mediana;
 - **Baixa produtividade**: funcionários com produtividade abaixo ou igual à mediana.
 
-## Estrutura do repositório
-
-```text
-.
-├── data/
-│   └── DadoseDecisoes.csv
-├── docs/
-│   └── referencias.md
-├── figures/
-├── notebooks/
-│   └── analise_exploratoria_dados_produtividade.ipynb
-├── .gitignore
-├── requirements.txt
-└── README.md
-```
-
 ## Base de dados
 
 A base utilizada é `DadoseDecisoes.csv`, disponibilizada no enunciado da atividade.
